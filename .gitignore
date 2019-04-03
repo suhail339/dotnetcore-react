@@ -11,7 +11,8 @@
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
-
+# AppTheme
+AppTheme/
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
